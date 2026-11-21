@@ -1,3 +1,4 @@
+https://github.com/FunkinCrew/Funkin.git
 <div align='center'><img src="docs/readme_images/FNF_logo.png" width="800">
 
 <h2>Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for <a href="https://ldjam.com/events/ludum-dare/47">Ludum Dare 47.</a></h2>
